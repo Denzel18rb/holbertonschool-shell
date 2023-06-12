@@ -5,3 +5,4 @@ echo "ls -l"
 ls -l
 echo "ls -a"
 ls -a
+pwd
