@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -a -n -l
+ls -a -n -l /root/holbertonschool-shell
+ls -a -n -l /boot
