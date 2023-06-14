@@ -1,2 +1,2 @@
 #!/bin/bash
-./executale
+ls . .. /boot -la
